@@ -73,7 +73,6 @@ fprintf('Gradient at initial theta (zeros) - first five values only:\n');
 fprintf(' %f \n', grad(1:5));
 fprintf('Expected gradients (approx) - first five values only:\n');
 fprintf(' 0.0085\n 0.0188\n 0.0001\n 0.0503\n 0.0115\n');
-
 fprintf('\nProgram paused. Press enter to continue.\n');
 pause;
 
